@@ -49,7 +49,7 @@ Report.info(
               startBtn.disabled = false;
               Report.success(
                 'Congratulation! Click on start!',
-                '"Do not try to become a person of success but try to become a person of value." <br/><br/>- Albert Einstein',
+                '"Do not try to become a person of success but try to become a person of value."',
                 'Okay'
               );
 
